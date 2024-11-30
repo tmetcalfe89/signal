@@ -1,0 +1,13 @@
+{
+  "name": "signal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Timothy Metcalfe",
+  "license": "ARR",
+  "description": "",
+  "dependencies": {
+    "@tmetcalfe89/keychain": "github:tmetcalfe89/keychain"
+  }
+}
