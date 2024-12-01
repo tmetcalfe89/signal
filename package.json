@@ -9,5 +9,6 @@
   "description": "",
   "dependencies": {
     "@tmetcalfe89/keychain": "github:tmetcalfe89/keychain"
-  }
+  },
+  "type": "module"
 }
